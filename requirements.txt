@@ -1,0 +1,9 @@
+black
+flake8
+hurry.filesize==0.9
+ultralytics
+yt-dlp
+youtube-dl==2020.12.2
+opencv-python
+pafy
+cap_from_youtube
